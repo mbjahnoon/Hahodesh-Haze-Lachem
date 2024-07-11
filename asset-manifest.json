@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Hahodesh-Haze-Lachem/static/css/main.dd211575.css",
-    "main.js": "/Hahodesh-Haze-Lachem/static/js/main.b9f4f641.js",
+    "main.js": "/Hahodesh-Haze-Lachem/static/js/main.dab69aa2.js",
     "static/js/488.362f4e5d.chunk.js": "/Hahodesh-Haze-Lachem/static/js/488.362f4e5d.chunk.js",
     "index.html": "/Hahodesh-Haze-Lachem/index.html",
     "main.dd211575.css.map": "/Hahodesh-Haze-Lachem/static/css/main.dd211575.css.map",
-    "main.b9f4f641.js.map": "/Hahodesh-Haze-Lachem/static/js/main.b9f4f641.js.map",
+    "main.dab69aa2.js.map": "/Hahodesh-Haze-Lachem/static/js/main.dab69aa2.js.map",
     "488.362f4e5d.chunk.js.map": "/Hahodesh-Haze-Lachem/static/js/488.362f4e5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd211575.css",
-    "static/js/main.b9f4f641.js"
+    "static/js/main.dab69aa2.js"
   ]
 }
