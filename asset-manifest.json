@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/Hahodesh-Haze-Lachem/static/css/main.dd211575.css",
-    "main.js": "/Hahodesh-Haze-Lachem/static/js/main.dab69aa2.js",
-    "static/js/488.362f4e5d.chunk.js": "/Hahodesh-Haze-Lachem/static/js/488.362f4e5d.chunk.js",
+    "main.css": "/Hahodesh-Haze-Lachem/static/css/main.8bed4855.css",
+    "main.js": "/Hahodesh-Haze-Lachem/static/js/main.c8f0e7ae.js",
     "index.html": "/Hahodesh-Haze-Lachem/index.html",
-    "main.dd211575.css.map": "/Hahodesh-Haze-Lachem/static/css/main.dd211575.css.map",
-    "main.dab69aa2.js.map": "/Hahodesh-Haze-Lachem/static/js/main.dab69aa2.js.map",
-    "488.362f4e5d.chunk.js.map": "/Hahodesh-Haze-Lachem/static/js/488.362f4e5d.chunk.js.map"
+    "main.8bed4855.css.map": "/Hahodesh-Haze-Lachem/static/css/main.8bed4855.css.map",
+    "main.c8f0e7ae.js.map": "/Hahodesh-Haze-Lachem/static/js/main.c8f0e7ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd211575.css",
-    "static/js/main.dab69aa2.js"
+    "static/css/main.8bed4855.css",
+    "static/js/main.c8f0e7ae.js"
   ]
 }
